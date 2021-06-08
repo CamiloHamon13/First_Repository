@@ -19,6 +19,7 @@ se agregan lineas en la rama rvista para luego hacer un MERGE hacia la rama main
 
 En el 3 commit de la rvista se modifican las 2 lineas de arriba y se agrega esta línea :D
 
+<<<<<<< HEAD
 --> Acá termina lo realizado en la rama vista rvista
 
 ----------------------> No se borró lo realizado en la rama main ni en rama vista, se unificó
@@ -39,3 +40,6 @@ Señores, el 11 commit antes de MERGE con rmodelo :D
 KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**
 
 Ultimo commit en main antes del MERGE con rmodelo.....
+=======
+################################ 4 commit desde la rvista, luego del MERGE de vista y controlador :D
+>>>>>>> 8f8f6503efec98d1bc486ffc79993c0f80ec5d9c
