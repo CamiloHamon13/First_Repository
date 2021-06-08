@@ -10,3 +10,6 @@ ______________________________ rmodelo _____________________________
 5 Commit, se modifica Archivo Model02 desde la rama rmodelo
 
 6 Commit pero 3 commit en la rama rmodelo, se agrega una línea más
+
+
+****** 4 commit de rmodelo, modificacion antes del MERGE de main - rcontrolador :D este fue con *
