@@ -3,6 +3,7 @@ Acá insertaré la primera linea de este archivo antes de crear el Repositorio e
 
 3 commit, se cambia nombre del archivo a Model02 y se inserta en la carpeta "Modelo"
 
+---------------------------------> Desde acá el HEAD <---------------------------------------
 4 commit desde main, se adelanta proyecto general
 
 5 commit desde main, se trabaja en el modelo :%
@@ -23,3 +24,21 @@ Señores, el 11 commit antes de MERGE con rmodelo :D
 KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**
 
 Ultimo commit en main antes del MERGE con rmodelo.....
+---------------------------------> Hasta acá el HEAD, desde acá el rmodelo <---------------------------------------
+______________________________ rmodelo _____________________________
+
+4 Commit, se realiza MERGE para acoplar la rmodelo con el main
+
+5 Commit, se modifica Archivo Model02 desde la rama rmodelo
+
+6 Commit pero 3 commit en la rama rmodelo, se agrega una línea más
+
+
+****** 4 commit de rmodelo, modificacion antes del MERGE de main - rcontrolador :D este fue con *
+
+Supuestamente el 5 commit desde la rama modelo :o algo pasó con un MERGE
+
+
+
+@@@@@@@@@@@@@@@@@@@@ Commit en rmodelo:  11vo commit de main, 6 commit de rmodelo, 12 commit debe ser el MERGE :D
+------------------------------> HASTA ACÁ EL RMODELO <---------------------------------------------------------
