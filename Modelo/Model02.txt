@@ -2,3 +2,9 @@ Acá insertaré la primera linea de este archivo antes de crear el Repositorio e
 2 linea 2 commit Se realiza modificación luego de la creación del repositorio en Windows
 
 3 commit, se cambia nombre del archivo a Model02 y se inserta en la carpeta "Modelo"
+
+______________________________ rmodelo _____________________________
+
+4 Commit, se realiza MERGE para acoplar la rmodelo con el main
+
+5 Commit, se modifica Archivo Model02 desde la rama rmodelo
