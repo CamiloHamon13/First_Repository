@@ -4,3 +4,5 @@ Acá insertaré la primera linea de este archivo antes de crear el Repositorio e
 3 commit, se cambia nombre del archivo a Model02 y se inserta en la carpeta "Modelo"
 
 4 commit desde main, se adelanta proyecto general
+
+5 commit desde main, se trabaja en el modelo :%
