@@ -3,6 +3,8 @@
 
 3 commit, se cambia nombre del archivo a Cont01 y se inserta en la carpeta "Controlador"
 
+------> Desde acá fue la modif de HEAD o main
+
 4 commit desde main, se adelanta proyecto general
 
 5 commit desde main, se avanza en Controladores
@@ -11,3 +13,19 @@ Este es el 7 commit, pero se notifica que en el sexto se realiza MERGE con la rv
 Se agregan dos lineas en el 7 commit de main
 
 8 commit :o luego de este commit se realizará MERGE entre main y rcontrolador
+
+---------> Hasta acá HEAD, desde acá rcontrolador
+
+__________________________ rcontrolador ___________________________________
+
+4 Commit hace referencia a MERGE de la rama main hacia la rama rcontrolador
+
+5 Commit se escriben estas dos líneas para representar una modificación y luego realizar MERGE hacia main
+
+6 Commit pero 3 en la rcontrolador, se agrega una linea más al archivo
+
+_________________________ rcontrolador 2 ________________________________
+
+4 commit de controlador pero el último commit de la rama main fue el 7, se preparan archivos para realizar commit
+
+--------> hasta acá rcontrolador
