@@ -19,3 +19,5 @@ __________________________ rcontrolador ___________________________________
 ___________________________ Se parte para indicar luego del 7 commit de la rama main___________
 
 4 commit de controlador pero el último commit de la rama main fue el 7, se preparan archivos para realizar commit
+
+5 Commit en la rama controlador, luego del MERGE
