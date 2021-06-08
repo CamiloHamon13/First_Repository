@@ -1,1 +1,4 @@
 Este es un tercer archivo fuera de la carpeta antes de crear el repositorio
+
+
+2 linea 2 commit Se realiza modificación luego de la creación del repositorio en Windows
