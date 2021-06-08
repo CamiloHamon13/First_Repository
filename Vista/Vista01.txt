@@ -3,3 +3,7 @@ Este es un tercer archivo fuera de la carpeta antes de crear el repositorio
 
 2 linea 2 commit Se realiza modificación luego de la creación del repositorio en Windows
 3 commit, se cambia nombre del archivo a Vista01 y se inserta en la carpeta "Vista"
+
+4 Commit en la rama vista para realizar MERGE desde la rama main a la rama rvista
+
+5 Commit, se agregan lineas en la rama rvista para luego hacer un MERGE hacia la rama main
