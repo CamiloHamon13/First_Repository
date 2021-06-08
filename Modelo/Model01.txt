@@ -16,3 +16,5 @@ ______  4 commit de rmodelo, modificacion antes del MERGE de main - rcontrolador
 
 
 Supuestamente el 5 commit desde la rama modelo :o algo pasó con un MERGE
+
+@@@@@@@@@@@@@@@@@@@@ Commit en rmodelo:  11vo commit de main, 6 commit de rmodelo, 12 commit debe ser el MERGE :D
