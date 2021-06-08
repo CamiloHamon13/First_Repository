@@ -2,3 +2,9 @@
 2 linea 2 commit Se realiza modificación luego de la creación del repositorio en Windows
 
 3 commit, se cambia nombre del archivo a Cont01 y se inserta en la carpeta "Controlador"
+
+__________________________ rcontrolador ___________________________________
+
+4 Commit hace referencia a MERGE de la rama main hacia la rama rcontrolador
+
+5 Commit se escriben estas dos líneas para representar una modificación y luego realizar MERGE hacia main
