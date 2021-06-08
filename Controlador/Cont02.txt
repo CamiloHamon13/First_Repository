@@ -13,3 +13,5 @@ __________________________ rcontrolador ___________________________________
 4 Commit hace referencia a MERGE de la rama main hacia la rama rcontrolador
 
 5 Commit se escriben estas dos líneas para representar una modificación y luego realizar MERGE hacia main
+
+6 Commit pero 3 en la rcontrolador, se agrega una linea más al archivo
