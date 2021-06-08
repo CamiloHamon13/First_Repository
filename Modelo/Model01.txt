@@ -9,3 +9,5 @@ ______________________________ rmodelo _____________________________
 4 Commit, se realiza MERGE para acoplar la rmodelo con el main
 
 5 Commit, se modifica Archivo Model01 desde la rama rmodelo
+
+6 Commit pero 3 commit en la rama rmodelo, se agrega una línea más 
