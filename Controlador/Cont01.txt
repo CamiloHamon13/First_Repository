@@ -35,4 +35,8 @@ _________________________ rcontrolador 2 ________________________________
 
 10 Commit desde rama main luego del MERGE con rcontrolador
 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Señores, el 11 commit antes de MERGE con rmodelo :D
+
 
