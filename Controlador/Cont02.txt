@@ -29,6 +29,7 @@ __________________________ rcontrolador ___________________________________
 ___________________________ Se parte para indicar luego del 7 commit de la rama main___________
 
 4 commit de controlador pero el último commit de la rama main fue el 7, se preparan archivos para realizar commit
+<<<<<<< HEAD
 -------------> Hasta acá rcontrolador
 
 ################################################################
@@ -42,3 +43,7 @@ Señores, el 11 commit antes de MERGE con rmodelo :D
 KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**
 
 Ultimo commit en main antes del MERGE con rmodelo.....
+=======
+
+5 Commit en la rama controlador, luego del MERGE
+>>>>>>> 5c331630a1f098fefb70a3c2072a920329aac864

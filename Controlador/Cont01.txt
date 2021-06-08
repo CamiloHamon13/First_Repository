@@ -1,5 +1,6 @@
 Modifica camilohamon - primera modificacion al repositorio de camih1338
 
+Se realiza MERGE con la rama rcontrolador
 
 _+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_
 +_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_+_*_
@@ -51,3 +52,4 @@ Señores, el 11 commit antes de MERGE con rmodelo :D
 KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**KING**
 
 Ultimo commit en main antes del MERGE con rmodelo.....
+5 Commit en la rama controlador, luego del MERGE
