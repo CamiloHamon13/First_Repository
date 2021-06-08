@@ -15,3 +15,7 @@ __________________________ rcontrolador ___________________________________
 5 Commit se escriben estas dos líneas para representar una modificación y luego realizar MERGE hacia main
 
 6 Commit pero 3 en la rcontrolador, se agrega una linea más al archivo
+
+___________________________ Se parte para indicar luego del 7 commit de la rama main___________
+
+4 commit de controlador pero el último commit de la rama main fue el 7, se preparan archivos para realizar commit
