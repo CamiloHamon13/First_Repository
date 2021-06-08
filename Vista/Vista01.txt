@@ -12,3 +12,5 @@ ________________________rvista
 se agregan lineas en la rama rvista para luego hacer un MERGE hacia la rama main
 
 En el 3 commit de la rvista se modifican las 2 lineas de arriba y se agrega esta línea :D
+
+################################ 4 commit desde la rvista, luego del MERGE de vista y controlador :D
