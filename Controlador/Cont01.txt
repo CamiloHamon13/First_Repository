@@ -6,3 +6,6 @@
 4 commit desde main, se adelanta proyecto general
 
 5 commit desde main, se avanza en Controladores
+
+Este es el 7 commit, pero se notifica que en el sexto se realiza MERGE con la rvista
+Se agregan dos lineas en el 7 commit de main

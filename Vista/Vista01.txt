@@ -22,3 +22,6 @@ En el 3 commit de la rvista se modifican las 2 lineas de arriba y se agrega esta
 --> Acá termina lo realizado en la rama vista rvista
 
 ----------------------> No se borró lo realizado en la rama main ni en rama vista, se unificó
+
+Este es el 7 commit, pero se notifica que en el sexto se realiza MERGE con la rvista
+Se agregan dos lineas en el 7 commit de main. Acá va muriendo la rama rvista.
