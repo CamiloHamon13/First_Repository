@@ -25,3 +25,5 @@ En el 3 commit de la rvista se modifican las 2 lineas de arriba y se agrega esta
 
 Este es el 7 commit, pero se notifica que en el sexto se realiza MERGE con la rvista
 Se agregan dos lineas en el 7 commit de main. Acá va muriendo la rama rvista.
+
+8 commit :o luego de este commit se realizará MERGE entre main y rcontrolador

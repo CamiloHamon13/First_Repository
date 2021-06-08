@@ -14,3 +14,5 @@ y acá está las primeras lineas del cuarto texto antes de crear el repositorio
 
 Este es el 7 commit, pero se notifica que en el sexto se realiza MERGE con la rvista
 Se agregan dos lineas en el 7 commit de main
+
+8 commit :o luego de este commit se realizará MERGE entre main y rcontrolador
