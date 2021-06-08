@@ -12,4 +12,7 @@ ______________________________ rmodelo _____________________________
 
 6 Commit pero 3 commit en la rama rmodelo, se agrega una línea más 
 
-______  4 commit de rmodelo, modificacion antes del MERGE de main - rcontrolador :D
+______  4 commit de rmodelo, modificacion antes del MERGE de main - rcontrolador :D+
+
+
+Supuestamente el 5 commit desde la rama modelo :o algo pasó con un MERGE
