@@ -29,3 +29,10 @@ _________________________ rcontrolador 2 ________________________________
 4 commit de controlador pero el último commit de la rama main fue el 7, se preparan archivos para realizar commit
 
 --------> hasta acá rcontrolador
+
+
+################################################################
+
+10 Commit desde rama main luego del MERGE con rcontrolador
+
+

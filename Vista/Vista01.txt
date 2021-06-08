@@ -27,3 +27,7 @@ Este es el 7 commit, pero se notifica que en el sexto se realiza MERGE con la rv
 Se agregan dos lineas en el 7 commit de main. Acá va muriendo la rama rvista.
 
 8 commit :o luego de este commit se realizará MERGE entre main y rcontrolador
+
+################################################################
+
+10 Commit desde rama main luego del MERGE con rcontrolador, evidentemente el 9 fue el MERGE
