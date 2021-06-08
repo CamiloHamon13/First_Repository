@@ -1,0 +1,4 @@
+:D primera linea antes de insertar repositorio GIT, este es el 3 archivo
+2 linea 2 commit Se realiza modificación luego de la creación del repositorio en Windows
+
+3 commit, se cambia nombre del archivo a Cont01 y se inserta en la carpeta "Controlador"

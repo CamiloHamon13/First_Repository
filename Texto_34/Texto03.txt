@@ -1,2 +1,0 @@
-:D primera linea antes de insertar repositorio GIT, este es el 3 archivo
-2 linea 2 commit Se realiza modificación luego de la creación del repositorio en Windows
